@@ -1,0 +1,89 @@
+/*
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+This page content is PGP-signed until the final "END PGP SIGNATURE" line.
+
+Because why not?!
+
+Read more about this at https://www.charliejonas.co.uk/pgp/
+
+You can verify this page by running `curl http://www.isitpantoyet.co.uk/styles.css | gpg`
+or by copying-and-pasting the source code into PGP or something similar.
+
+The page should be signed by the following PGP key:
+
+pub 4096R/22707ACC 2015-08-24 [expires: 2020-01-01]
+Key fingerprint = 99E8 D0A4 7676 A198 448B A239 1608 A2A1 2270 7ACC
+uid Charlie Jonas <charlie@charliejonas.co.uk>
+uid Charlie Jonas <chtj2@srcf.net>
+uid Charlie Jonas <charlie.jonas@icloud.com>
+uid Charlie Jonas <chtj2@cam.ac.uk>
+uid Charlie Jonas <charlie.jonas@live.com>
+sub 4096R/F54FA4F7 2015-08-24 [expires: 2020-01-02]
+
+*/
+
+html{
+}
+
+body{
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #9880D3;
+    color: white;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 13px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 667px) {/*and (-webkit-min-device-pixel-ratio: 2) {*/
+    h1 {
+        font-size: 45px;
+    }
+
+    h3 {
+        font-size: 31px;
+    }
+}
+
+article {
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+footer {
+    margin-left: 10%;
+    margin-top: 13%;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/*
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCgAGBQJYESPkAAoJEBYIoqEicHrM3FMP/0tVrd+RA3zLBgmm0jPMCbqX
+uYZ+BhBzHWJomct33ZMG6XiJ4ShXauetuwxBkWc+CTBPrW3gh8f3JXQlmGoSzN8r
+r5ldNWHrf5LkInecexZgLDD8OW484J2fUGeS+EEdaIc7ZcvRQuFeRp4kV5u+mfiR
+lPXPRZMovXQTZ19ORQjwpUYDlNZ3L9yFxRVzOt44dGiG1TOZrBjVnCPzIsDimJAM
+t38P6IIZ7HxWk/LGDSnJs2r4HAqpD8EKQ+uVDUmebMfuk2H1WpZGSA3yx8rhng1+
+eHFKK2LPDg1lse2p5ppLPu0JXvct7Qh1pyfgvvBicBtB0qIaIk+2QLj73XvF1GcI
+A0tGPrrEhbZBH6gxbLZgUItMRH8Fx2rQW2q+paRrCsPM5rhv2eKFoyYonC3Yr4E1
+HDVH09s7x38K5TZyIYBcucS4zdhXXtzipr9U5b0SBou5ad2BU3T1F+2fSUtzvQef
+3bm5M9ZgtIkaek+pJB8xAe1170EgI/1jR4RKnFj5r3Ly5rRPBSYPQ3lwxRQTnvAC
+hf3p1+65JUu7UhN/J0zZcLYr03azF0tXHriUmPBpBfwNEmUDMLLgKjrZdIUXApCp
+mMIPBjmwI6IzncpZhgL2KmAnje4Dm5PD4/TXvIV22XySp+xptmTLLAjZ3N7cDDEv
+Otl36Ya9zi1pYSPeKF7L
+=s8bO
+-----END PGP SIGNATURE-----
+
+*/
